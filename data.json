@@ -1,0 +1,143 @@
+{
+   "data":{
+      "items":[
+         {
+            "id":"fc4a18f68c4de10d267695baf2ffee58",
+            "tracking_number":"FMPC1092259357",
+            "carrier_code":"ekart",
+            "order_create_time":"",
+            "destination_code":"",
+            "status":"delivered",
+            "track_update":false,
+            "original_country":"",
+            "destination_country":"Nirjuli",
+            "itemTimeLength":6,
+            "stayTimeLength":null,
+            "service_code":null,
+            "packageStatus":null,
+            "substatus":null,
+            "last_mile_tracking_supported":null,
+            
+            "origin_info":{
+               "ItemReceived":"2021-02-10 11:00:00",
+               "ItemDispatched":null,
+               "DepartfromAirport":null,
+               "ArrivalfromAbroad":null,
+               "CustomsClearance":null,
+               "DestinationArrived":"2021-02-15 08:22:00",
+               "weblink":"https:\/\/www.ekartlogistics.com",
+               "phone":null,
+               "carrier_code":"ekart",
+               "trackinfo":[
+                  {
+                     "StatusDescription":"Delivered",
+                     "Date":"2021-02-1`5 15:17:00",
+                     "Details":"Nirjuli",
+                     "checkpoint_status":"delivered",
+                     "substatus":"delivered001"
+                  },
+                  {
+                     "StatusDescription":"Out For Delivery",
+                     "Date":"2021-02-15 08:22:00",
+                     "Details":"Nirjuli",
+                     "checkpoint_status":"pickup",
+                     "substatus":"pickup001"
+                  },
+                  {
+                     "StatusDescription":"Received at NirjuliHub_NRI",
+                     "Date":"2021-02-15 07:56:00",
+                     "Details":"Nirjuli",
+                     "checkpoint_status":"transit",
+                     "substatus":"transit001"
+                  },
+                  {
+                     "StatusDescription":"Dispatched to NirjuliHub_NRI",
+                     "Date":"2021-02-13 16:24:00",
+                     "Details":"Nirjuli",
+                     "checkpoint_status":"transit",
+                     "substatus":"transit001"
+                  },
+                  {
+                     "StatusDescription":"Received at MotherHub_GOR",
+                     "Date":"2021-02-13 13:08:00",
+                     "Details":"Guwahati",
+                     "checkpoint_status":"transit",
+                     "substatus":"transit001"
+                  },
+                  {
+                     "StatusDescription":"Received at MotherHub_GOR",
+                     "Date":"2021-02-13 12:30:00",
+                     "Details":"Guwahati",
+                     "checkpoint_status":"transit",
+                     "substatus":"transit001"
+                  },
+                  {
+                     "StatusDescription":"Dispatched to MotherHub_GOR",
+                     "Date":"2021-02-10 23:48:00",
+                     "Details":"Guwahati",
+                     "checkpoint_status":"transit",
+                     "substatus":"transit001"
+                  },
+                  {
+                     "StatusDescription":"Received at Bamnoli Sort Centre",
+                     "Date":"2021-02-10 22:29:00",
+                     "Details":"New Delhi",
+                     "checkpoint_status":"transit",
+                     "substatus":"transit001"
+                  },
+                  {
+                     "StatusDescription":"Received at Bamnoli Sort Centre",
+                     "Date":"2021-02-10 22:29:00",
+                     "Details":"New Delhi",
+                     "checkpoint_status":"transit",
+                     "substatus":"transit001"
+                  },
+                  {
+                     "StatusDescription":"Received at EKL_Bamnoli2",
+                     "Date":"2021-02-10 22:29:00",
+                     "Details":"New Delhi",
+                     "checkpoint_status":"transit",
+                     "substatus":"transit001"
+                  },
+                  {
+                     "StatusDescription":"Pickup From Seller",
+                     "Date":"2021-02-10 19:13:00",
+                     "Details":"New Delhi",
+                     "checkpoint_status":"pickup",
+                     "substatus":"transit001"
+                  },
+                  {
+                     "StatusDescription":"Dispatched to Bamnoli Sort Centre",
+                     "Date":"2021-02-10 11:00:00",
+                     "Details":"New Delhi",
+                     "checkpoint_status":"transit",
+                     "substatus":"transit001",
+                     "ItemNode":"ItemReceived"
+                  },
+                  {
+                     "StatusDescription":"Shipment Created",
+                     "Date":"2021-02-10 10:59:00",
+                     "Details":"New Delhi",
+                     "substatus":"notfound001",
+                     "checkpoint_status":"transit"
+                  }
+               ]
+            },
+            "destination_info":{
+               "ItemReceived":null,
+               "ItemDispatched":null,
+               "DepartfromAirport":null,
+               "ArrivalfromAbroad":null,
+               "CustomsClearance":null,
+               "DestinationArrived":null,
+               "weblink":null,
+               "phone":null,
+               "carrier_code":null,
+               "trackinfo":null
+            },
+            "lastEvent":"Delivered,Nirjuli,2021-02-15 15:17:00",
+            "lastUpdateTime":"2021-02-15 15:17:00"
+         }
+      ]
+   }
+}
